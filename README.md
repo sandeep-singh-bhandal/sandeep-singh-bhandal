@@ -44,11 +44,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,webstorm,git,github,postman,vercel,netlify" height="40" alt="Tools" />
 </p>
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 0597f23d19b0097f987a840bbe878aefd47f51ca
 <h2>🌐 Let's Connect</h2>
 <p>
   <a href="https://www.linkedin.com/in/sandeep-singh-bhandal-a4804932b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
