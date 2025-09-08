@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey, I'm Sandeep Singh</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=87CEEB&width=500&lines=I+craft+smooth+interfaces+Occasionally+arguing+with+CSS" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=87CEEB&lines=I+craft+smooth+interfaces+Occasionally+arguing+with+CSS" alt="Typing SVG"/>
 </p>
 
 <p align="center">
