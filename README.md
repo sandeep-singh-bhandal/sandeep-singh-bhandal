@@ -1,4 +1,7 @@
 <h1 align="center">👋 Hey, I'm Sandeep Singh</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=87CEEB&width=500&lines=Exploring+new+technologies;I+craft+smooth+interfaces;Occasionally+arguing+with+CSS" alt="Typing SVG"/>
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&width=500&lines=Always+Exploring+New+Technologies;Building+Smooth+Interfaces;Sometimes+Arguing+With+CSS;
