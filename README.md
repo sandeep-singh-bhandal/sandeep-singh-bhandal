@@ -1,8 +1,4 @@
 <h1 align="center">👋 Hey, I'm Sandeep Singh</h1>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&width=500&lines=Always+Exploring+New+Technologies;Building+Smooth+Interfaces;Sometimes+Arguing+With+CSS;
-"/>
-</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeep-singh-bhandal&style=for-the-badge&base=310&abbreviated=true" alt="Sandeep Singh" /> </p>
 
 🔥 A passionate **MERN Stack Developer** from India <br>
