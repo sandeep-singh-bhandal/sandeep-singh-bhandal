@@ -1,7 +1,9 @@
-# 👋 Hey, I'm Sandeep Singh
+<h1 align="center">👋 Hey, I'm Sandeep Singh</h1>
 
-🚀 A passionate **Full Stack Developer & ML Enthusiast** from India.  
-I love building **scalable web apps, solving real-world problems,** and exploring **machine learning + system design.**  
+<p align="center">
+🚀 A passionate <b>Full Stack Developer & ML Enthusiast</b> from India. <br>
+I love building <b>scalable web apps, solving real-world problems,</b> and exploring <b>machine learning + system design.</b>
+</p>
 
 ---
 
@@ -18,35 +20,22 @@ I love building **scalable web apps, solving real-world problems,** and explorin
 
 ---
 
-## 🛠 Tech Stack
+<h2 align="center">🛠 Tech Stack</h2>
 
-**Languages:**  
-`JavaScript` `TypeScript` `Python` `C++`  
+<p align="center">
+<b>Languages:</b><br>
+<code>JavaScript</code> <code>TypeScript</code> <code>Python</code> <code>C++</code>
+</p>
 
-**Frontend:**  
-`React.js` `Next.js` `Tailwind CSS` `ShadCN/UI`  
+<p align="center">
+<b>Frontend:</b><br>
+<code>React.js</code> <code>Next.js</code> <code>Tailwind CSS</code> <code>ShadCN/UI</code>
+</p>
 
-**Backend:**  
-`Node.js` `Express.js` `Supabase` `MongoDB`  
+<p align="center">
+<b>Backend:</b><br>
+<code>Node.js</code> <code>Express.js</code> <code>Supabase</code> <code>MongoDB</code>
+</p>
 
-**Tools & Others:**  
-`Git & GitHub` `JWT Auth` `REST APIs` `Netlify / Vercel / Hostinger`  
-
----
-
-## 📊 GitHub Stats
-
-![Sandeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)  
-
----
-
-## 📫 Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/in/yourlinkedin)  
-- 🐙 [GitHub](https://github.com/yourusername)  
-- 📩 Email: your.email@example.com  
-
----
-
-⭐ *“Code, Learn, Share, Repeat.”*  
+<p align="center">
+<b>Tools & Others:</b><br
